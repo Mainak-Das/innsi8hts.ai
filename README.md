@@ -1,6 +1,6 @@
 # innsi8hts.ai - Hotel Reviews Sentiment Analyser
 
-Welcome to our **Hotel Sentiment Analysis** project! This repository contains all the necessary components to scrape, analyze, predict and summarise sentiments from hotel reviews.
+Welcome to this **Hotel Sentiment Analysis** project! This repository contains all the necessary components to scrape, analyze, predict & summarise sentiments from hotel reviews.
 
 ## 🚀 Project Overview
 
