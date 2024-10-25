@@ -1,4 +1,4 @@
-# Hotel Sentiment Analyser
+# innsi8hts.ai - Hotel Reviews Sentiment Analyser
 
 Welcome to our **Hotel Sentiment Analysis** project! This repository contains all the necessary components to scrape, analyze, predict and summarise sentiments from hotel reviews.
 
@@ -81,13 +81,6 @@ pip install -r requirements.txt
 ## 📈 Results
 
 Our models have been fine-tuned and evaluated to achieve high accuracy in predicting sentiment from hotel reviews. Detailed results can be found in the notebook.
-
-## 👥 Contributors
-
-- [Deepra Mazumder](https://github.com/DeepraMazumder)
-- [Devarshi Gupta](https://github.com/DevG06)
-- [Mainak Das](https://github.com/Mainak-Das)
-- [Aditya Datta](https://github.com/Aditya007Datta)
 
 ## 📝 License
 
