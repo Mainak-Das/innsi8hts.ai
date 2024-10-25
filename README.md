@@ -1,21 +1,21 @@
-# NPN Cognizant Hackathon - Hotel Sentiment Analysis
+# Hotel Sentiment Analyser
 
-Welcome to our **Hotel Sentiment Analysis** project for the **NPN Cognizant Hackathon**! This repository contains all the necessary components to scrape, analyze, predict and summarise sentiments from hotel reviews.
+Welcome to our **Hotel Sentiment Analysis** project! This repository contains all the necessary components to scrape, analyze, predict and summarise sentiments from hotel reviews.
 
 ## 🚀 Project Overview
 
-Our project focuses on predicting **positive & negative sentiments** from hotel reviews using a combination of advanced Natural Language Processing (NLP) techniques and classical Machine Learning models. We aim to provide a robust solution that can assist hotels in understanding guest satisfaction through automated sentiment analysis.
+**innsi8hts.ai** project is designed to analyze hotel reviews and predict sentiments, categorizing them as positive or negative. By leveraging advanced Natural Language Processing (NLP) techniques combined with classical Machine Learning models, the system automates sentiment analysis, allowing hotels to gain valuable insights into guest feedback. This solution helps in understanding customer satisfaction, identifying areas for improvement, and enhancing overall service quality. Additionally, the platform simplifies the process by providing detailed insights into the reviews, making it easier for hotel management to act on customer opinions effectively.
 
 ## 📂 Project Structure
 
 - **Artifacts**:  
-  - `NPN_Logistic_Regression_Model.pkl`: Logistic Regression model for comparison.
-  - `NPN_Random_Forest_Model.pkl`: Random Forest model for advanced predictions.
-  - `NPN_Naive_Bayes_Model.pkl`: Naive Bayes model used for baseline performance.
-  - `NPN_XGBoost_Model.pkl`: XGBoost model for high-performance predictions.
-  - `NPN_LightGBM_Model.pkl`: LightGBM model trained for sentiment analysis.
-  - `NPN_Label_Encoder.pkl`: Pre-trained label encoder for categorical variables.
-  - `NPN_TF_IDF_Vectorizer.pkl`: TF-IDF vectorizer to transform text data.
+  - `Logistic_Regression_Model.pkl`: Logistic Regression model for comparison.
+  - `Random_Forest_Model.pkl`: Random Forest model for advanced predictions.
+  - `Naive_Bayes_Model.pkl`: Naive Bayes model used for baseline performance.
+  - `XGBoost_Model.pkl`: XGBoost model for high-performance predictions.
+  - `LightGBM_Model.pkl`: LightGBM model trained for sentiment analysis.
+  - `Label_Encoder.pkl`: Pre-trained label encoder for categorical variables.
+  - `TF_IDF_Vectorizer.pkl`: TF-IDF vectorizer to transform text data.
 
 - **Dataset**:  
   - `Scraped_Dataset.csv`: The dataset scraped from various hotel review sites.
@@ -50,8 +50,7 @@ Our project focuses on predicting **positive & negative sentiments** from hotel 
 Make sure you have Python installed. Clone this repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-repo/NPN-Cognizant-Hackathon.git
-cd NPN-Cognizant-Hackathon
+git clone https://github.com/your-repo/innsi8hts.ai.git
 pip install -r requirements.txt
 ```
 
