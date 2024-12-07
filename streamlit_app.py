@@ -16,7 +16,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-pages = ["Home", "Analyze", "Predict", "About Us", "GitHub Repo"]
+pages = ["Home", "Analyze", "Predict", "GitHub Repo"]
 urls = {"GitHub Repo": "https://github.com/Mainak-Das/innsi8hts.ai"}
 logo_path = r"templates/img/innsights-logo.svg"
 
