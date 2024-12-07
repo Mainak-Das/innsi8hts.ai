@@ -1,0 +1,70 @@
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environment directories
+venv/
+ENV/
+env/
+.venv/
+
+# Ignore configuration files and environments
+.env
+.venv
+*.env
+*.env.*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore data and artifact directories
+artifacts/
+Dataset/
+notebooks/
+
+# Ignore Streamlit configuration directory
+.streamlit/
+
+# Ignore the ChromeDriver executable
+chromedriver.exe
+
+# Ignore any system-specific files (Windows, macOS, Linux)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore files related to coverage and testing
+.coverage
+*.cover
+*.cov
+*.coverage.*
+
+# Ignore files related to Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Ignore compiled C extensions
+*.so
+*.dylib
+*.dll
+
+# Ignore other common files
+*.log
+*.bak
+*.tmp
+
+# Ignoring "LF will be replaced by CRLF the next time Git touches it"
+*.py text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.svg text eol=lf
+*.gitignore text eol=lf
+*.txt text eol=lf
